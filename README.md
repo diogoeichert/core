@@ -13,7 +13,7 @@ Core is the powerhouse used by [Maragato マラガト](https://maragato.itch.io)
 [![Core on mobile devices](https://img.youtube.com/vi/J9ioXAm-qpE/0.jpg)](https://www.youtube.com/watch?v=J9ioXAm-qpE)
 
 ## Concept
-Games are made of scenes, which contain sprites. The engine needs at least one scene to be initialized. That's it.
+Apps are made of scenes, which contain sprites. The engine needs at least one scene to be initialized. That's it.
 
 ## Features
 - collision detection: translated to events, to keep update logic clean
