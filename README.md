@@ -1,7 +1,7 @@
 [![code style](https://img.shields.io/badge/code_style-classic-blue.svg)](http://diogoeichert.github.io/eslint-config-classic)
 [![downloads](https://img.shields.io/npm/dt/core.svg)](https://www.npmjs.com/package/core)
 [![license](https://img.shields.io/github/license/diogoeichert/core.svg)](LICENSE)
-[![npm version](https://img.shields.io/npm/v/core.svg)](https://www.npmjs.com/package/core)
+[![npm version](https://img.shields.io/npm/v/core-multimedia.svg)](https://www.npmjs.com/package/core-multimedia)
 
 # core
 Multi-platform multimedia engine
